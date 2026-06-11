@@ -1,3 +1,4 @@
+
 # Tania's Cybersecurity Services - Phishing Awareness Platform
 
 A modern, interactive phishing awareness and cybersecurity training platform built with Next.js, TypeScript, and Tailwind CSS.
@@ -79,3 +80,6 @@ npm start
 ## License
 
 This project is licensed under the MIT License.
+
+# Decodelabs-Task-3-Tania-Mansoor-Khan
+Phishing Awareness Analysis is a cybersecurity project that identifies and analyzes phishing attempts to help users recognize and avoid malicious emails and fake websites.
